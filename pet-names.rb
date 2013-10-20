@@ -32,10 +32,10 @@ toffee tomato torte tortilla trout tuna turkey turnip veal vermicelli
 vodka wafer waffle walnut watercress watermelon wheat whisky wiener
 wine yogurt zucchini}
 
-body_parts = %w{ankle arm arm back belly bottom breast bum butt calf
-calves cheek cheeks chin ear elbow eye eyebrow face feet finger
-fingers fist foot forehead hair hand head hip hips knee knees leg legs
-lip lips mouth neck nose nostril nostrils shoulder teeth thigh thumb
-tits toe toes tongue tooth waist wrist}
+body_parts = %w{ankle arm arm back belly bottom breast bum buns butt
+calf calves cheek cheeks chin ear elbow eye face feet finger fingers
+fist foot forehead hair hand head hip hips knee knees leg legs lip
+lips mouth neck nose shoulder teeth thigh thumb tits toe toes tongue
+tooth wrist}
 
 puts "#{foods.sample}-#{body_parts.sample}"
