@@ -1,0 +1,29 @@
+#container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: Baskerville, Georgia, serif;
+}
+
+h1, h2 {
+    font-weight: 400;
+    font-style: italic;
+    color: #281e00;
+}
+
+h2 {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img#heart {
+    width: 50px;
+    float: right;
+    margin-right: 200px;
+}
