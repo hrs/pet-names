@@ -27,3 +27,14 @@ img#heart {
     float: right;
     margin-right: 200px;
 }
+
+footer {
+    font-family: Helvetica, sans;
+    width: 700px;
+    position: absolute;
+    bottom: 0;
+    font-size: 0.8em;
+    text-align: center;
+    border-top: thin #ccc solid;
+    color: #ccc;
+}
