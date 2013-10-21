@@ -1,3 +1,5 @@
-### Pet Name Generator
+## Questionable Pet Name Generator
 
-For when caring is just too hard.
+Your source for algorithmic affection.
+
+Site hosted at [questionablepetnames.com](http://questionablepetnames.com).
