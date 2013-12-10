@@ -38,4 +38,4 @@ fist foot forehead hair hand head hip hips knee knees leg legs lip
 lips mouth neck nose shoulder teeth thigh thumb tits toe toes tongue
 tooth wrist}
 
-puts "#{foods.sample}-#{body_parts.sample}"
+print "#{foods.sample}-#{body_parts.sample}"
