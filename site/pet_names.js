@@ -59,6 +59,14 @@ function randomPetName() {
   return randomElement(foods) + '-' + randomElement(body_parts);
 }
 
-$(function() {
+function assignRandomPetName() {
   $('#pet-name').text(randomPetName());
+}
+
+$(function() {
+  assignRandomPetName();
+
+  $('#another').click(function() {
+    assignRandomPetName();
+  });
 });
